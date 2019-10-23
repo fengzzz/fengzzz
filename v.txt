@@ -4,4 +4,4 @@
 1.全新升级UI
 2.修复已知BUG
 【内容】
-【链接】https://fengzzz.github.io/fengzzz/京东助手1.2回归版【链接】
+【链接】https://fengzzz.github.io/fengzzz/1.2【链接】
