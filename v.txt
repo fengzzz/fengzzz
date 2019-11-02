@@ -4,4 +4,4 @@
 1.修复已知BUG
 2.新增：屏蔽登录滑块、一键登录
 【内容】
-【链接】https://github.com/fengzzz/fengzzz/blob/master/京东助手1.3版.apk【链接】
+【链接】https://github.com/fengzzz/fengzzz/blob/master/1.3.apk【链接】
